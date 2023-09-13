@@ -1,0 +1,27 @@
+.Collection_1{
+    float: left;
+    margin:30px; 
+
+}
+.Collection_2{
+    
+    border: 1px solid rgb(242, 237, 206);
+    width: 300px;
+    height: auto;
+    margin-top: 20px;
+    text-align: center;
+    background-color: #ffffff;
+    border-radius: 20px;
+    margin-left: 100px;
+    
+}
+
+.Collection_Text{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+}
+.Collection_Description{
+    font-size: 15px;
+    color: rgb(1, 51, 159);
+}

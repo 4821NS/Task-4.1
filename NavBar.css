@@ -1,0 +1,31 @@
+.NavBar{
+    display: flex;
+    border: 1px solid black;
+    width:100%;
+    padding: 10px;
+    height:50px;
+    background-image: linear-gradient(300deg, #464647 10%, #9f9f9f 74%);
+
+}
+.Sign_Insider{
+    margin: 0%;
+}
+.input_Search{
+    padding: 10px;
+    width:50%;
+    height:30px;
+    margin-right: auto;
+    margin-top: 8px;
+    background-color: #cdcccc;
+    margin-left: auto;
+}
+.btn{
+    margin-right:auto;
+    width:100px;
+    height: 30px;
+    margin-top: 8px;
+    padding-bottom: 15px;
+    background-color:rgb(140, 193, 188) ;
+    font-weight: bolder;
+
+}

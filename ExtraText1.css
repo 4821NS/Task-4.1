@@ -1,0 +1,9 @@
+.Extra_Text1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.heading_Text1{
+    text-align: center;
+    text-decoration: underline;
+}
